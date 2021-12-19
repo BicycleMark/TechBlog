@@ -3,7 +3,7 @@ title: "First Post"
 subtitle: ""
 date: 2021-12-19T15:13:43-06:00
 lastmod: 2021-12-19T15:13:43-06:00
-draft: true
+draft: false
 author: "Mark Wardell"
 description: ""
 
@@ -13,8 +13,8 @@ page:
 upd: ""
 authorComment: ""
 
-tags: []
-categories: []
+tags: [first]
+categories: [first, second]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

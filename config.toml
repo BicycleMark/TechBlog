@@ -16,7 +16,7 @@ theme="uBlogger"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = "Blog Posts"
-    weight = 1
+    weight = 5
   [[menu.main]]
     identifier = "tags"
     pre = ""
